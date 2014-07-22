@@ -1,0 +1,15 @@
+div.score {
+	font-size: large; 
+	text-align: center;
+	vertical-align: middle;
+	padding: 4px 0px;
+	border: 1px solid #888888;
+	font-weight: bold;
+	width: 50px;
+}
+table.scorebord {
+	width: 150px;
+}
+td.scorebord {
+	text-align: center;
+}

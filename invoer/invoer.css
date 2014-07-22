@@ -1,0 +1,37 @@
+body {
+	font-family: arial;
+}
+div.score {
+	font-size: xx-large; 
+	text-align: center;
+	vertical-align: middle;
+	padding: 4px, 4px, 4px, 4px;
+	font-weight: bold;
+}
+table {
+	width: 200px;
+}
+td {
+	text-align: center;
+}
+input {
+	font-family: arial;
+}
+input.plus {
+	font-size: x-large;
+	font-weight: bold;
+	padding: 10px 20px;
+	text-align: center;
+}
+input.tweet {
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+input.min {
+	font-size: large;
+	margin-top: 10px;
+	font-weight: bold;
+	padding: 4px 10px;
+	text-align: center;
+}

@@ -1,0 +1,19 @@
+body {
+	font-family: arial;
+}
+div.score {
+	font-size: xx-large; 
+	text-align: center;
+	vertical-align: middle;
+	padding: 4px 4px 4px 4px;
+	border: 1px solid #888888;
+	font-weight: bold;
+	height: <?=$divpx;?>;
+	width: <?=$divpx;?>;
+}
+table.scorebord {
+	width: 200px;
+}
+td {
+	text-align: center;
+}
